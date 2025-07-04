@@ -1,6 +1,0 @@
-@TrabalhoDeCompra_HostAddress = http://localhost:5288
-
-GET {{TrabalhoDeCompra_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
